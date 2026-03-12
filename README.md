@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Muhammad Aqib 👋
 
-<!--
-**Muhammad-Aqib882/Muhammad-Aqib882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on:
+- ASP.NET Core Backend Development
+- Flutter Mobile Applications
+- REST API Development
 
-Here are some ideas to get you started:
+## Tech Stack
+- C#, ASP.NET Core
+- Flutter & Dart
+- Firebase
+- Django
+- REST APIs
+- MySQL / SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Rashan.pk – Grocery Delivery App
+- Carizma – Auto Repair Service App
+- Pakistan Student Portal
+- Online Job Hiring System
+
+📫 Reach me:
+LinkedIn: https://linkedin.com/in/muhammad-aqib-922456188
